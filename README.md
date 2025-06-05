@@ -1,6 +1,5 @@
-![Logo do Podcast](assets/images/cover.png)
 
-<img src="assets/images/cover.png" alt="Logo do Podcast" width="200" />
+<img src="assets/images/cover.png" alt="Logo do Podcast" width="200"  align = center/>
 
 # 🎙️ Ecos de um Crime
 
