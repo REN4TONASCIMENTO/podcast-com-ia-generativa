@@ -38,16 +38,16 @@ O episódio piloto — **"O Apartamento Silencioso"** — apresenta Eduardo Less
 
 5. Publique o episódio nas plataformas de podcast de sua escolha.
 
-🎯 Objetivos do Projeto
+## 🎯 Objetivos do Projeto
 
-Criar uma experiência de podcast.
+- Criar uma experiência de podcast.
 
-Explorar narrativas de suspense, mistério e investigação.
+- Explorar narrativas de suspense, mistério e investigação.
 
-Demonstrar a aplicação de IA na criação de conteúdo artístico e narrativo.
+- Demonstrar a aplicação de IA na criação de conteúdo artístico e narrativo.
 
-🤝 Contribuição
+## 🤝 Contribuição
 
-Contribuições são bem-vindas!
+- Contribuições são bem-vindas!
 
-Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, novas ideias de roteiros ou sugestões de trilha sonora.
+- Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, novas ideias de roteiros ou sugestões de trilha sonora.
