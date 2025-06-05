@@ -1,5 +1,7 @@
 ![Logo do Podcast](assets/images/cover.png)
 
+<img src="assets/images/cover.png" alt="Logo do Podcast" width="200" />
+
 # 🎙️ Ecos de um Crime
 
 **Ecos de um Crime** é um podcast de suspense e mistério que acompanha as investigações do detetive Eduardo Lessa, um homem solitário que se dedica a desvendar casos obscuros, muitas vezes envoltos em silêncio, incertezas e ecos do passado.
