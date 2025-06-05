@@ -1,4 +1,4 @@
-![Logo do Podcast](imagens/cover.png)
+![Logo do Podcast](images/cover.png)
 
 # 🎙️ Ecos de um Crime
 
