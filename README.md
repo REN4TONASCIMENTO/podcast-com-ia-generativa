@@ -52,8 +52,8 @@ O episódio piloto — **"O Apartamento Silencioso"** — apresenta Eduardo Less
 
 - Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, novas ideias de roteiros ou sugestões de trilha sonora.
 
-  ## ✅ Licença
+## ✅ Licença
   
-  - Uso educacional
+- Uso educacional
 
-  > Desenvolvido por Renato Nascimento
+> Desenvolvido por Renato Nascimento
