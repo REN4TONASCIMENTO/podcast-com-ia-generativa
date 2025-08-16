@@ -51,3 +51,5 @@ O episódio piloto — **"O Apartamento Silencioso"** — apresenta Eduardo Less
 - Contribuições são bem-vindas!
 
 - Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, novas ideias de roteiros ou sugestões de trilha sonora.
+
+  > Desenvolvido por Renato Nascimento
